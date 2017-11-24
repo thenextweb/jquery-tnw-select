@@ -2,7 +2,7 @@
   "author": {
     "name": "Alexander Griffioen",
     "email": "alexander@thenextweb.com",
-    "url": "https://github.com/thenextweb"
+    "url": "https://github.com/oscaralexander"
   },
   "bugs": {
     "url": "https://github.com/thenextweb/jquery-tnw-select/issues"
@@ -36,7 +36,7 @@
   "name": "jquery-tnw-select",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oscaralexander/jquery-tnw-select.git"
+    "url": "https://github.com/thenextweb/jquery-tnw-select.git"
   },
   "scripts": {
     "build": "npx babel ./src/jquery.tnw-select.js --out-file ./dist/jquery.tnw-select.js",
